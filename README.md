@@ -1,2 +1,2 @@
 # MiniProject
-Mini Project LTTS
+Mini Project
