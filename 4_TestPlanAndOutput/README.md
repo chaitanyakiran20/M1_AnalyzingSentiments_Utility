@@ -19,4 +19,4 @@
 | L5_H2 | Xs0s Player 2 Wins | 698531         | P2_Wins         |               |
 | L6_H2 | Xs0s Player 2 Wins | 578491         | P2_Wins         |               |
 | L7_H3 | Match Draw         | 789465321      | Game_Draw       |               |
-| L8_H8 | Match Draw         | 321564987      | Game_Draw       |               |
+| L8_H3 | Match Draw         | 321564987      | Game_Draw       |               |
