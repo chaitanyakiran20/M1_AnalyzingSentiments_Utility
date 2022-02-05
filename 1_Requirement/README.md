@@ -7,9 +7,9 @@
 
 ## Low Level Requirements
 * Array Operations
- * Array Modifications
- * Array Display using Print statements
- * Identify Reusage  of Array Position
+  * Array Modifications
+  * Array Display using Print statements
+  * Identify Reusage  of Array Position
 * Continous Winner Evaluation
 
 ## SWOT analysis:
