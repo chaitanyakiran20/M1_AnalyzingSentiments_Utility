@@ -4,7 +4,7 @@ Repository for XsOs Game
 # INTRODUCTION: 
 * The XsOs project is a Game based mini project, which is used for entertainment purposes by taking inputs from 2 players and allowing 1 player to win. The tool used for writing the code in this project is visual studio code. This project has multi-file and multiplatform approach (Linux and Windows).
 
-#RESEARCH
+#REFERENCE
 
  Xs and Os (Irish English) is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. It is a solved game, with a forced draw assuming best play from both players.
 
