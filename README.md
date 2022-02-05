@@ -1,2 +1,8 @@
 # MiniProject
-Repository to Analyze sentiments from ratings of zomato
+Repository for Conversions made easier
+
+## Milestone 1
+* Idea
+* Requirments
+* Design
+* Test Plan
