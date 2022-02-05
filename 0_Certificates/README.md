@@ -1,5 +1,5 @@
 Certificates Attained:
-* SoloLearn - C programmig
+* SoloLearn - C programming
 * Cisco NDG Linux
 * Github Learning Certificate
 * Hackerearth Points 
