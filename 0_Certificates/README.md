@@ -10,3 +10,5 @@
 ![Screenshot (64)](https://user-images.githubusercontent.com/34639178/152646899-481e26be-dc6b-477e-bfa7-41427faa1adb.png)
 
 ## Hackerearth Points 
+![Screenshot (65)](https://user-images.githubusercontent.com/34639178/153257917-790474a5-4d05-45ae-9b0e-856e388f55e8.png)
+
