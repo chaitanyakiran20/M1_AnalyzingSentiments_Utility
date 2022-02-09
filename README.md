@@ -16,12 +16,4 @@ Detailed Explanation Reference Listed Below:
 [Click_to_Redirect]
 (https://en.wikipedia.org/wiki/Tic-tac-toe#:~:text=Tic%2Dtac%2Dtoe%20(American,grid%20with%20X%20or%20O.&text=It%20is%20a%20solved%20game,best%20play%20from%20both%20players)
 
-### 4’W and 1’H
 
-What: XsOs Game
-
-Where: School, Science, domestic, Technology
-
-When: Need for Entertainment, StressBuster
-
-How: Displays the user input in a 2 Dimensional matrix allowing players to take turns and provide input(Playing) and gives the output.
