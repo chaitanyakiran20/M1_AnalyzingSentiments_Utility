@@ -6,12 +6,11 @@
  * @return int 
  */
 
-#include <stdio.h>
-#include <string.h>
-
+#include "xo.h"
 char x,o;
 char array[9]={'1','2','3','4','5','6','7','8','9'};
 char char1[50],char2[50];
+
 void matrix();
 void info_display();
 int Winner_verify();
@@ -19,6 +18,7 @@ int decide();
 
 int main()
 {
+    
     int player=1;
     int choice,score=-1;
     char symbol,re;
@@ -29,9 +29,9 @@ int main()
     scanf("%d",&s);
     if(s==1)
     {
-    printf("\nEnter name of player*1: ");
+    printf("\nEnter name of player1: ");
     scanf("%s",char1);
-    printf("Enter name of player-2: ");
+    printf("Enter name of player2: ");
     scanf("%s",char2);
     decide();
     matrix();
@@ -73,11 +73,11 @@ int main()
     if(score==1)
     {
         if(player==2)
-        {printf("\n\nPlayer-1 %s Wins!\n\n",char1);
+        {printf("\n\nPlayer1 %s Wins!\n\n",char1);
        }
         else
             {
-printf("\n\nPlayer-2 %s Wins!\n\n",char2);      
+printf("\n\nPlayer2 %s Wins!\n\n",char2);      
             }
     }
     else
@@ -88,6 +88,7 @@ printf("\n\nPlayer-2 %s Wins!\n\n",char2);
         printf("\n\nShould have typed 1 to play the game!\nHope to see you back soon!\n\n");
     }
 }
+
 int Winner_verify()
 {
     if(array[0]==array[1] && array[1]==array[2])
@@ -144,7 +145,7 @@ int decide()
 {
     char dec;
         deci:
-        printf("\n\nPlayer-1 %s choose the X or 0:",char1);
+        printf("\n\nPlayer1 %s choose the X or 0:",char1);
         dec=getchar();
         scanf("%c",&dec);
         {
