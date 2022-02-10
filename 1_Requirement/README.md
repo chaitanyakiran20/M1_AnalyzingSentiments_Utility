@@ -22,7 +22,7 @@
 
 * Threats: Single Game Play, Updating gameplay not possible.
 
-### 4’W and 1’H
+## 4’W and 1’H
 
 * What: XsOs Game
 
