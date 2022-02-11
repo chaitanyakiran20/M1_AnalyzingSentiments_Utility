@@ -19,4 +19,6 @@ Detailed Explanation Reference Listed Below:
 * Codiga Badge
 https://api.codiga.io/project/31097/score/svg
 
+* Codacy Badge
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5fe41fb75b574e0db502558c69e65774)](https://www.codacy.com/gh/chaitanyakiran20/M1_XO_Game/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=chaitanyakiran20/M1_XO_Game&amp;utm_campaign=Badge_Grade)
 
