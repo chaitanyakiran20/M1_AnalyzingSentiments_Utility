@@ -1,4 +1,7 @@
 # MiniProject
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/88c172a62dab479499ef9a9ac1f93996)](https://app.codacy.com/gh/chaitanyakiran20/M1_XO_Game?utm_source=github.com&utm_medium=referral&utm_content=chaitanyakiran20/M1_XO_Game&utm_campaign=Badge_Grade_Settings)
+
 Repository for XsOs Game
 
 ## INTRODUCTION: 
