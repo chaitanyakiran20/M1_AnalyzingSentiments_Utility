@@ -13,8 +13,7 @@ Repository for XsOs Game
 
 Detailed Explanation Reference Listed Below: 
 
-[Click_to_Redirect]
-(https://en.wikipedia.org/wiki/Tic-tac-toe#:~:text=Tic%2Dtac%2Dtoe%20(American,grid%20with%20X%20or%20O.&text=It%20is%20a%20solved%20game,best%20play%20from%20both%20players)
+[Click_to_Redirect](https://en.wikipedia.org/wiki/Tic-tac-toe#:~:text=Tic%2Dtac%2Dtoe%20(American,grid%20with%20X%20or%20O.&text=It%20is%20a%20solved%20game,best%20play%20from%20both%20players)
 
 * Codiga Badge
 https://api.codiga.io/project/31097/score/svg
